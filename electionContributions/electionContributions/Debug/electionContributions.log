@@ -1,0 +1,14 @@
+﻿  Source.cpp
+c:\users\abirc\source\repos\electioncontributions\electioncontributions\source.cpp(14): error C2065: 'Donation': undeclared identifier
+c:\users\abirc\source\repos\electioncontributions\electioncontributions\source.cpp(14): error C2146: syntax error: missing ')' before identifier 'donors'
+c:\users\abirc\source\repos\electioncontributions\electioncontributions\source.cpp(15): error C2065: 'Donation': undeclared identifier
+c:\users\abirc\source\repos\electioncontributions\electioncontributions\source.cpp(15): error C2146: syntax error: missing ')' before identifier 'donors'
+c:\users\abirc\source\repos\electioncontributions\electioncontributions\source.cpp(16): error C2065: 'Donation': undeclared identifier
+c:\users\abirc\source\repos\electioncontributions\electioncontributions\source.cpp(16): error C2146: syntax error: missing ')' before identifier 'donors'
+c:\users\abirc\source\repos\electioncontributions\electioncontributions\source.cpp(17): error C2065: 'Donation': undeclared identifier
+c:\users\abirc\source\repos\electioncontributions\electioncontributions\source.cpp(17): error C2146: syntax error: missing ')' before identifier 'donors'
+c:\users\abirc\source\repos\electioncontributions\electioncontributions\source.cpp(39): error C3861: 'readFile': identifier not found
+c:\users\abirc\source\repos\electioncontributions\electioncontributions\source.cpp(45): error C3861: 'addNewContribution': identifier not found
+c:\users\abirc\source\repos\electioncontributions\electioncontributions\source.cpp(48): error C3861: 'reportPerCandidate': identifier not found
+c:\users\abirc\source\repos\electioncontributions\electioncontributions\source.cpp(52): error C3861: 'writeFile': identifier not found
+c:\users\abirc\source\repos\electioncontributions\electioncontributions\source.cpp(84): error C3867: 'std::basic_ifstream<char,std::char_traits<char>>::close': non-standard syntax; use '&' to create a pointer to member

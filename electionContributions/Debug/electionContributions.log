@@ -1,0 +1,2 @@
+﻿  Source.cpp
+c:\users\abirc\source\repos\electioncontributions\electioncontributions\source.cpp(86): error C3867: 'std::basic_ifstream<char,std::char_traits<char>>::close': non-standard syntax; use '&' to create a pointer to member
